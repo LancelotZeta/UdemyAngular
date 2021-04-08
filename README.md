@@ -1,5 +1,5 @@
 # UdemyAngular
-Study Udemy Angular course
+Building Portfolio from Udemy Angular
 
 Section1
 ----
